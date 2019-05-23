@@ -1,7 +1,7 @@
 /***************************************
   Updates
   1.Play with computer
-  2.Choos play as
+  2.Choose play as
 ***************************************/
 #include<iostream>
 #include<cstdlib>
